@@ -1,0 +1,5 @@
+# demo runtime artifacts
+/data/
+*.jsonl
+*.jsonl.lock
+marker-*
